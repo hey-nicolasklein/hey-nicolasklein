@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="https://nico.so">Website</a> •
-  <a href="https://twitter.com/heynicolasklein">Twitter</a>
+  <a href="https://twitter.com/heynicolasklein">Twitter</a> •
+    <a href="https://www.linkedin.com/in/heynicolas/">LinkedIn</a>
+
 </p>
 
 <!--
