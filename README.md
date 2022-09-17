@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Nicolas Klein</h3>
+<p align="center">
+  <a href="https://nico.so">Website</a> •
+  <a href="https://twitter.com/heynicolasklein">Twitter</a>
+</p>
 
 <!--
 **hey-nicolasklein/hey-nicolasklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
