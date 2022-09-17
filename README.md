@@ -1,4 +1,9 @@
-<h3 align="center">👋 Hi there! I'm Nicolas Klein</h3>
+<a href="https://nico.so" target="_blank">
+    <img src="https://user-images.githubusercontent.com/32168266/190834265-bda58bb4-1976-432c-a089-08e330e95cb6.png" />
+</a>
+
+<h3 align="center">👋 Hi there! <br> I am <a href="https://nico.so/">@nico</a>, a 23 years old UXEngineer from Germany!</h3>
+
 <p align="center">
   <a href="https://nico.so">Website</a> •
   <a href="https://twitter.com/heynicolasklein">Twitter</a>
