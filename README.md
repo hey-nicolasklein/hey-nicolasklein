@@ -1,12 +1,7 @@
-<a href="https://nico.so" target="_blank">
-    <img src="https://user-images.githubusercontent.com/32168266/190835131-7048b007-857d-4e42-b343-5d87cd9b0495.png" />
-</a>
-
-<h3 align="center">👋 Hi there! <br> I am <a href="https://nico.so/">@nico</a>, a 25 years old UXEngineer from Germany!</h3>
+<h3 align="center">👋 Hi there! <br> I am <a href="https://nico.so/">@nico</a>,a 26-year-old UX developer from Germany!</h3>
 
 <p align="center">
-  <a href="https://nico.so">Website</a> •
-  <a href="https://twitter.com/heynicolasklein">Twitter</a> •
+    <a href="https://nico.so">Website</a> •
     <a href="https://www.linkedin.com/in/heynicolas/">LinkedIn</a>
 
 </p>
